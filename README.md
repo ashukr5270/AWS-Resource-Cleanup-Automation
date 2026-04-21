@@ -7,6 +7,7 @@
 AWS Resource Cleanup Automation is a serverless cloud solution that automatically identifies and removes unused or idle AWS resources such as EC2 instances and S3 buckets. The system helps reduce operational costs, improve efficiency, and maintain a clean cloud environment using automation.
 
 🚀 Features:-
+
   🔍 Automatic detection of unused resources
   
   🧹 Cleanup of stopped EC2 instances
@@ -22,6 +23,8 @@ AWS Resource Cleanup Automation is a serverless cloud solution that automaticall
   🔐 Secure access using IAM roles
 
   
+
+
 
 🛠️ Technologies Used:-
 
