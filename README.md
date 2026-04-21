@@ -23,22 +23,22 @@ Identify Idle Resources → Send Notification → Cleanup → Logs
 
 How It Works:-
 
-• Run script via cron job or Lambda function periodically.
+  • Run script via cron job or Lambda function periodically.
 
-• List all AWS resources using boto3 or AWS CLI.
+  • List all AWS resources using boto3 or AWS CLI.
 
-• Check usage metrics (e.g., EC2 stopped > 7 days).
+  • Check usage metrics (e.g., EC2 stopped > 7 days).
 
-• Send alerts via Slack/Email before deletion.
+  • Send alerts via Slack/Email before deletion.
 
-• Delete or tag unused resources automatically.
-
+  • Delete or tag unused resources automatically.
 
 
 
 Why It’s Powerful:-
-• Saves cloud cost and automates maintenance.
 
-• Demonstrates AWS, IAM, and boto3 knowledge.
+   • Saves cloud cost and automates maintenance.
 
-• Real-world DevOps use case for cost optimization.
+   • Demonstrates AWS, IAM, and boto3 knowledge.
+
+   • Real-world DevOps use case for cost optimization.
