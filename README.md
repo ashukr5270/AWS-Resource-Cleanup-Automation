@@ -21,6 +21,8 @@ AWS Resource Cleanup Automation is a serverless cloud solution that automaticall
   
   🔐 Secure access using IAM roles
 
+  
+
 🛠️ Technologies Used:-
   ☁️ Amazon Web Services (AWS)
   
@@ -33,8 +35,10 @@ AWS Resource Cleanup Automation is a serverless cloud solution that automaticall
   🐍 Python (Boto3 SDK)
   
   🔐 IAM (Identity and Access Management)
+  
 
 🚀Flowchart:-
+
   User → CloudWatch Trigger → Lambda Function → Resource Scan → 
 Identify Idle Resources → Send Notification → Cleanup → Logs
 
